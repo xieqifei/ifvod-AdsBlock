@@ -34,7 +34,7 @@ chrome://extensions/
 在`If URL match:`一栏填入
 
 ```
-https://www.ifvod.tv/7-es2015.5cef6194389ec0967828.js
+https://www.ifvod.tv/7-es2015.*js
 ```
 
 在`Response:`一栏填入
